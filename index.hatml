@@ -1,0 +1,71 @@
+<header>
+  <div class="logo">ImportedGreen</div>
+  <nav>
+    <a href="#">Inicio</a>
+    <a href="#">Tienda</a>
+    <a href="#">Contacto</a>
+    <a href="#">Iniciar sesión</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Compra productos con facilidad</h1>
+  <p>Compra yerba, celulares, perfumes</p>
+  <button class="btn">Explorar ahora</button>
+</section>
+
+<section class="categories">
+  <div class="category">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeUIFQIhixXE_Ie2O8d4sqFuLGwzXlbLUecw&s" alt="Yerba" />
+    <h3>Yerba</h3>
+  </div>
+  <div class="category">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXffmOhc6MceHjf5R3xpYe0Amer47GtN0SsQ&s" alt="Celulares" />
+    <h3>Celulares</h3>
+  </div>
+  <div class="category">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKhzmZ9uX3qlG2SI5JydyAG9OgAx1-lW5sUg&s" alt="Perfumes" />
+  <h3>Perfumes</h3>
+</div>
+  </div>
+</section>
+
+<div class="search-section">
+  <input type="text" class="search-box" placeholder="Buscar productos" />
+</div>
+
+<section class="products">
+  <h2>Compra productos con facilidad</h2>
+  <div class="product-items">
+    <div class="product-card">
+      <img src="https://via.placeholder.com/150" alt="Producto" />
+      <p>Producto</p>
+    </div>
+    <div class="product-card">
+      <img src="https://via.placeholder.com/150" alt="Producto" />
+      <p>Producto</p>
+    </div>
+    <div class="product-card">
+      <img src="https://via.placeholder.com/150" alt="Producto" />
+      <p>Producto</p>
+    </div>
+  </div>
+</section>
+
+<section class="footer">
+  <div class="footer-content">
+    <div class="footer-item">
+      <h3>Reseñas de productos</h3>
+      <p>⭐⭐⭐⭐☆ 1323</p>
+    </div>
+    <div class="footer-item">
+      <h3>Pago seguro</h3>
+    </div>
+    <div class="footer-item">
+      <h3>Envío</h3>
+    </div>
+    <div class="footer-item">
+      <h3>Chat en vivo</h3>
+    </div>
+  </div>
+</section>
